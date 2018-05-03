@@ -1,14 +1,14 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Papers
+description:    "CV/PR/AI/ML/DL"
+baseurl:        "/papers"
+url:            "https://www.quxiaofeng.me"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         QU Xiaofeng
+  url:          https://quxiaofeng.me
+  email:        quxiaofeng@live.com
 
 # Build settings
 markdown:       kramdown
